@@ -4,25 +4,11 @@ public class RandomValue {
 
         Random random = new Random();
 
-//        int x = random.nextInt(6)+1;
-//        double y = random.nextDouble();
+        int x = random.nextInt(6)+1;
+        double y = random.nextDouble();
         boolean z = random.nextBoolean();
 
         System.out.println(z);
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
     }
 }
