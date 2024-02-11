@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "NestedLoop",
+            "request": "launch",
+            "mainClass": "NestedLoop",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
+            "name": "ForLoop",
+            "request": "launch",
+            "mainClass": "ForLoop",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
             "name": "WhileLoop",
             "request": "launch",
             "mainClass": "WhileLoop",
