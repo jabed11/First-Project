@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
+            "name": "LogicalOperator",
+            "request": "launch",
+            "mainClass": "LogicalOperator",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
+            "name": "Calculation",
+            "request": "launch",
+            "mainClass": "Calculation",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
             "name": "Launch External Terminal",
             "request": "launch",
             "console": "externalTerminal",
