@@ -22,8 +22,11 @@ public class NestedLoop {
             System.out.println();
             for(int j = 1; j<=columns; j++) {
                 System.out.print(symbol);
+                
             }
+
         }
+
     }
    
 }

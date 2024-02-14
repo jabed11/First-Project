@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "Array2D",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "First-Project_28be5d42"
+        },
+        {
+            "type": "java",
             "name": "NestedLoop",
             "request": "launch",
             "mainClass": "NestedLoop",
