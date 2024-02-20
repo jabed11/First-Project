@@ -1,6 +1,8 @@
 public class Patterns {
     public static void main(String[] args) {
-        //        RECTANGLE
+
+        
+// //    RECTANGLE           
 //        int n=5;
 //        for (int i=1; i<=4; i++){
 //            for (int j=1; j<=n; j++){
@@ -10,7 +12,7 @@ public class Patterns {
 //        }
 
 
-//        HALF PYRAMID
+// //    HALF PYRAMID            
 //        int n=5;
 //        for (int i=1; i<=n; i++){
 //            for (int j=1; j<=i; j++){
@@ -21,7 +23,7 @@ public class Patterns {
 
 
 
-//UPSIDE DOWN HALF PYRAMID
+// //  UPSIDE DOWN HALF PYRAMID          
 //        int n=5;
 //        for (int i=1; i<=n; i++){
 //            for (int j=n; j>=i; j--){
@@ -31,7 +33,7 @@ public class Patterns {
 //        }
 
 
-//      BOX
+// // BOX                  
 //        int n=4, m=5;
 //        for (int i=1; i<=n; i++){
 //            for (int j=1; j<=m; j++){
@@ -45,7 +47,7 @@ public class Patterns {
 //        }
 
 
-//INVERTED HALF PYRAMID
+// //INVERTED HALF PYRAMID
        int n=5;
        for (int i=1; i<=n; i++){
            for (int j=1; j<=n-i; j++){
