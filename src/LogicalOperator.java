@@ -35,9 +35,6 @@ public class LogicalOperator {
         // }
 
 
-
-
-
         Scanner sc = new Scanner(System.in);
 
         System.out.println("You are playing a game! Press q or Q to quit");
@@ -51,23 +48,6 @@ public class LogicalOperator {
             System.out.println("You quit the game!");
         }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
+
 }

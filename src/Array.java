@@ -11,7 +11,7 @@ public class Array {
         // System.out.println(cars[2]);
 
 
-        String[] cars = new String[3];
+        String cars[] = new String[3];
 
         cars[0] = "Camaro";
         cars[1] = "Corvette";

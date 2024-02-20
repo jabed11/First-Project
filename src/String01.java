@@ -33,10 +33,17 @@ public class String01 {
         // System.out.println(name.replace('B', 'W'));
         // System.out.println(name.replace("BED", "WED"));
 
+        // System.out.println(name.startsWith("JAB"));
+        // System.out.println(name.startsWith("BED"));
+
+        // System.out.println(name.endsWith("BED"));
+        // System.out.println(name.endsWith("JAB"));
+
+        System.out.println(name.charAt(0));
         
 
-        
-
+        String modifiedName = "Jabedbed";
+        System.out.println(name.indexOf("bed"));
 
 
 
