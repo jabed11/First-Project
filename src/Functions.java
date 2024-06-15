@@ -1,3 +1,4 @@
+import java.text.DecimalFormat;
 import java.util.Scanner;
 
 public class Functions {
@@ -197,27 +198,144 @@ public class Functions {
 //? (BONUS)
 
 
-////   1. Average    
+////   1.Enter 3 numbers from the user & make a function to print their average    
 
-public static int ptintAverage(int num1, int num2, int num3){
+// public static void ptintAverage(int num1, int num2, int num3){
 
-    int num1, num2, num3;
-    int average = num1+num2+num3;
+//     int average = ((num1+num2+num3)/3);
+//     System.out.println("Average: "+average);
+// }
+// public static void main(String[] args) {
+//     Scanner sc = new Scanner(System.in);
+//     System.out.print("Enter the first number: ");
+//     int num1 = sc.nextInt();
+//     System.out.print("Enter the second num1: ");
+//     int num2 = sc.nextInt();
+//     System.out.print("Enter the third num1: ");
+//     int num3 = sc.nextInt();
+    
+//     ptintAverage(num1, num2, num3);
+// }
 
 
-    return average;
-}
+////   2.Write a function to print the sum of all odd numbers from 1 to n   
+
+// public static void main(String[] args) {
+//     Scanner sc = new Scanner(System.in);
+//     System.out.print("Enter the value of n: ");
+//     int n = sc.nextInt();
+//     sumOddNumber(n);
+// }
+// public static void sumOddNumber(int n){
+//      int odd = (((n+1)/2)*((n+1)/2));    // sum of odd num 1 to n
+//      int odd = (2*n)-1;    // nth odd number
+//     System.out.println(odd);
+// }
+
+
+////   3. Write a function which takes in 2 numbers and returns the greater of those two    
+
+// public static void printGreaterNumber(int a, int b){
+//     if (a > b) {
+//         System.out.println(a);
+//     }
+//     else if (a < b) {
+//         System.out.println(b);
+//     }
+// }
+// public static void main(String[] args) {
+//     Scanner sc = new Scanner(System.in);
+//     System.out.println("Enter the first number: ");
+//     int a = sc.nextInt();
+//     System.out.println("Enter the second number: ");
+//     int b = sc.nextInt();
+//     printGreaterNumber(a, b);
+// }
+
+
+////   4. Write a function that takes in the radius as input and returns the circumference of a circle   
+
+// public static void printCircumference(double r){
+//     double circumference = 2*3.1416*r;
+//     DecimalFormat df = new DecimalFormat(".00");
+//     System.out.println("The value of the circumference is: "+df.format(circumference));
+// }
+// public static void main(String[] args) {
+//     Scanner sc = new Scanner(System.in);
+//     System.out.println("Enter the value of radius: ");
+//     double r = sc.nextDouble();
+//     printCircumference(r);
+
+
+
+////  5. Write a function that takes in age as input and returns if that person is eligible to vote or not. 
+////  A person of age > 18 is eligible to vote  
+   
+
 public static void main(String[] args) {
-    Scanner sc = new Scanner(System.in);
-    System.out.println("Enter the first number: ");
-    int num1 = sc.nextInt();
-    System.out.println("Enter the second num1: ");
-    int num2 = sc.nextInt();
-    System.out.println("Enter the third num1: ");
-    int num3 = sc.nextInt();
-
-    printAverage();
+    Scanner sc = new Scanner(System.in)
+    System.out.println("Enter age: ");
+    int n =
 }
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
