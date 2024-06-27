@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class Functions {
 
 
-////    A function to print my beautiful name    
+////    A function to print my beautiful first name    
 
 //     public static void printMyName(String name) {        
 //         System.out.println(name);
